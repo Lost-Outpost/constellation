@@ -1,4 +1,4 @@
-<img src="https://staticdelivery.nexusmods.com/mods/3685/images/635/635-1769034548-620768095.png">
+<img src="https://staticdelivery.nexusmods.com/mods/4187/images/15953/15953-1769894601-1274798269.png">
 
 # Installation
 
@@ -12,8 +12,8 @@
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Library](#steam-library)
     - [Set the Game language to English](#set-the-game-language-to-english)
-    - [Clean Enderal](#clean-skyrim)
-    - [Start Enderal](#start-skyrim)
+    - [Clean Starfield](#clean-starfield)
+    - [Start Starfield](#start-starfield)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
     - [Downloading and Installing](#downloading-and-installing)
@@ -24,11 +24,11 @@
 
 # Introduction
 
-The Path is a lightweight Enderal modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It's intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.
+Constellation is a lightweight Starfield modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It's intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.
 
 ## List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/the-path) if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/constellation) if you want to know exactly what you're getting.
 
 ## Minimum Specs
 Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to adjust settings with systems this low but it should run fine and still look great!
@@ -49,14 +49,14 @@ These steps are only needed if you install the Modlist for the first time.
 
 I doubt you need to do this since you likely already have this installed. This package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-### Clean Enderal
+### Clean Starfield
 
-I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Enderal Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
+I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Starfield Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 
-[THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Enderal install should look like after shredding or cleaning it manually.
+[THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Starfield install should look like after shredding or cleaning it manually.
 
-### Start Enderal
-Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Enderal directory.
+### Start Starfield
+Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Starfield directory.
 
 ## Using Wabbajack
 
@@ -83,7 +83,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 # Updating
 
-If this Modlist receives an update, please check the [changelog](https://www.nexusmods.com/skyrimspecialedition/mods/125198) before doing anything. Always backup your saves or start a new game after updating.
+If this Modlist receives an update, please check the [changelog](https://www.nexusmods.com/starfieldspecialedition/mods/125198) before doing anything. Always backup your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 

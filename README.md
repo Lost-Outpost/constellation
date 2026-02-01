@@ -51,7 +51,7 @@ I doubt you need to do this since you likely already have this installed. This p
 
 ### Clean Starfield
 
-I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Starfield Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
+I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Starfield` folder in `Documents/My Games/` by deleting the contents in it.
 
 [THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Starfield install should look like after shredding or cleaning it manually.
 
